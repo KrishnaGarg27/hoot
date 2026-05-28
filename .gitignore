@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+
+# Runtime + local config — never commit
+.env
+.env.local
+.env*.local
+.cache/
+.claude/
+
+*.log
+.DS_Store
