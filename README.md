@@ -5,7 +5,6 @@ A voice-first curiosity companion for kids. Hoot is a friendly owl who answers
 stories — interactive or just-narrate-to-me — with a kid's choices actually
 shaping where the plot goes.
 
-Built from a finished design handoff in [`design_handoff_hoot_app/`](./design_handoff_hoot_app/).
 
 ---
 
